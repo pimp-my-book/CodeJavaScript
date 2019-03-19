@@ -1,8 +1,8 @@
 # CodeJavaScript
 
-#CodeJavaScript is a programme designed to get you up to speed with the technologies we use at PMB. It is also meant to be a bridge to help those you have never programmed before or are interns to get equipped with the necessary skills to ship code at PMB.
+#CodeJavaScript is a programme designed to get you up to speed with the technologies we use at PMB. It is also meant to be a bridge to help those of you who have never programmed before or are interns to get equipped with the necessary skills to ship code at PMB.
 
-You will use only two resources that will structure this course. You will make two apps at the end of this course, one will be a Serverless Full Stack Node App and a Fullstack GraphQL App. After completing these materials you then build a Full-Stack Serverless GraphQL app that PMB can use internally. This will determine whether you can work here fulltime. You will have about 5-6 months to complete everything. 3 months to complete the tutorials and 3 months for the project. 
+You will use only two resources that will structure this course. You will make three apps at the end of this course, one will be a Serverless Full Stack Node App and a Fullstack GraphQL App. After completing these materials you then build a Full-Stack Serverless GraphQL app that PMB can use internally. This will determine whether you can work here fulltime. You will have about 5-6 months to complete everything. 3 months to complete the tutorials and 3 months for the project. 
 
 You can not start this course if you do not know how to use version control. Please work through the GitHub training labs if you are not familiar with Git.  [GitHub labs](https://lab.github.com/courses)
 
