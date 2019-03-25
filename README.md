@@ -34,4 +34,15 @@ Your goal here is to create a Full Stack Serverless GraphQL App that should be a
 
 * [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Flavio Copes' JS articles](https://flaviocopes.com/tags/js/)
+* [ES5 to ESNext — here’s every feature added to JavaScript since 2015](https://medium.freecodecamp.org/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e)
+* [The React Handbook
+](https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795)
+* [The Complete JavaScript Handbook
+](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
+* [The definitive Node.js handbook
+](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
+* [The Vue Handbook: a thorough introduction to Vue.js
+](https://medium.freecodecamp.org/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446)
+* [A beginner’s introduction to Webpack
+](https://medium.freecodecamp.org/a-beginners-introduction-to-webpack-2620415e46b3)
 
