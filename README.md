@@ -32,6 +32,6 @@ Your goal here is to create a Full Stack Serverless GraphQL App that should be a
 
 # Resources
 
-[MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[Flavio Copes' JS articles](https://flaviocopes.com/tags/js/)
+* [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Flavio Copes' JS articles](https://flaviocopes.com/tags/js/)
 
