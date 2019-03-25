@@ -29,3 +29,9 @@ Then do the [React + Apollo](https://www.howtographql.com/react-apollo/0-introdu
 # Capstone Project
 
 Your goal here is to create a Full Stack Serverless GraphQL App that should be available at a deployed URL. The App can be anything you want it to be.  It will get reviewed and based off of it we will make you an offer.  The App has to have Auth, 4 Valid user stories, Unit Tests and a CI/CD pipeline.
+
+# Resources
+
+[MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[Flavio Copes' JS articles](https://flaviocopes.com/tags/js/)
+
