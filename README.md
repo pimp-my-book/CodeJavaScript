@@ -45,4 +45,10 @@ Your goal here is to create a Full Stack Serverless GraphQL App that should be a
 ](https://medium.freecodecamp.org/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446)
 * [A beginner’s introduction to Webpack
 ](https://medium.freecodecamp.org/a-beginners-introduction-to-webpack-2620415e46b3)
-
+* [You don't (may not) need Moment.js
+](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
+* [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
+* [JS-Algorithms
+](https://github.com/duereg/js-algorithms)
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+* [Exploring JS: JavaScript books for programmers](http://exploringjs.com/)
