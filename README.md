@@ -1,4 +1,8 @@
-# CodeJavaScript
+<h1 align="center">
+    <img  alt="Imperial Data Science"  src="https://github.com/pimp-my-book/CodeJavaScript/blob/master/codejavascript.png">
+ </h1>
+ 
+# CodeJavaScript 🍉  ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 #CodeJavaScript is a programme designed to get you up to speed with the technologies we use at PMB. It is also meant to be a bridge to help those of you who have never programmed before or are interns to get equipped with the necessary skills to ship code at PMB.
 
@@ -26,11 +30,11 @@ Then start with the [GraphQL Node](https://www.howtographql.com/graphql-js/0-int
 
 Then do the [React + Apollo](https://www.howtographql.com/react-apollo/0-introduction/) tut
 
-# Capstone Project
+# Capstone Project 🛠
 
-Your goal here is to create a Full Stack Serverless GraphQL App that should be available at a deployed URL. The App can be anything you want it to be.  It will get reviewed and based off of it we will make you an offer.  The App has to have Auth, 4 Valid user stories, Unit Tests and a CI/CD pipeline.
+Your goal here is to create a Full Stack Serverless GraphQL App that should be available at a deployed URL. The App can be anything you want it to be.  It will get reviewed and based off of it we will make you an offer.  The App has to have Auth, 4 Valid user stories, Unit Tests and a CI/CD pipeline. Use the [Serverless-GraphQL-NodeJS-Starter](https://github.com/pimp-my-book/serverless-graphql-nodejs-starter) to scaffold your project.
 
-# Resources
+# Resources 💰
 
 * [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Flavio Copes' JS articles](https://flaviocopes.com/tags/js/)
