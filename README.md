@@ -56,3 +56,13 @@ Your goal here is to create a Full Stack Serverless GraphQL App that should be a
 ](https://github.com/duereg/js-algorithms)
 * [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 * [Exploring JS: JavaScript books for programmers](http://exploringjs.com/)
+
+# Will I Be Able to  Build Stuff After Completing This? 🤔
+
+Fine question there...a wise person once said that everything you do needs to be reproducable by someone else. In that case here are projects by people who have completed the curriculum and shipped their own Fullstack Serverless GraphQL apps:
+
+* [Insta Clone](https://github.com/pimp-my-book/insta-clone)
+* [FDWA (Food Delivery Web App)](https://github.com/pimp-my-book/FDWA)
+* [PMB Simplistic](https://github.com/pimp-my-book/pmb-simplistic)
+
+
